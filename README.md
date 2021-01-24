@@ -1,5 +1,6 @@
 ## Web application - Software Security
 Web app: https://coninxcomics.herokuapp.com
+
 API: https://coninxcomics-api.herokuapp.com
 
 ## Verwerkingsregister:
@@ -24,3 +25,6 @@ Beschikbaar voor iedereen:
 
 Beschikbaar voor authenticated users:
 - POST /api/createComic
+
+## Web attacks/vulnerabilities
+Niet geïmplementeerd
